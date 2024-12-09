@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contaner{
+    background-image: url(assets/images/background-pattern-desktop.svg);
+    height: 30vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
+body{
+    background-color: blanchedalmond;
+}
+.text{
+    height: 500px;
+    width: 450px;
+    border-radius: 15px;
+    margin: auto;
+position: relative;
+top: 50%;
+    background-color: white;
+}
+.text1{
+    padding: 30px 0 0 0;
+}
+.text1 span{
+    margin: 0 15px 0 0;
+    font-size: 50px;
+    font-weight: 900;
+}
+.text1 span img{
+    margin-left:25px ;
+}
+.text2,.text5{
+    height: 50px;
+    
+   
+    width: 85%;
+    margin: auto;
+    
+}
+.text2 span{
+font-size: 16px;
+
+
+
+}
+.text2 img{
+width: 20px;
+height: 20px;
+ margin: 0 0 0 30px; 
+position: relative;
+top: 5px;
+}
+.hed{
+
+    display: none;
+}
+.text3,.text6,.text8,.text10{
+    
+    font-size: 13px;
+    width: 90%;
+    margin:20px auto;
+    opacity: 0.5;
+
+}
+.text4{
+    border: 1px solid black;
+    width: 85%;
+    margin: auto;
+    opacity: 0.2;
+}
+.text5 img{
+    width: 20px;
+    height: 20px;
+     margin: 0 0 0 195px; 
+    position: relative;
+    top: 10px;
+    }
+    .text7 {
+margin-top: 30px;
+    }
+    .text7 span img{
+
+margin-left: 20px;
+    }
+  
